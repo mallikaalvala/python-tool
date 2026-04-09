@@ -8,7 +8,7 @@ from contextlib import redirect_stdout, redirect_stderr
 
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Python Learning Environment",
+    page_title="Python Learning Window",
     page_icon="🐍",
     layout="wide",
 )
@@ -457,4 +457,4 @@ class Cat:
 
 # ── Footer ─────────────────────────────────────────────────────────────────────
 st.markdown("---")
-st.caption("🐍 Python Learning Environment · built with Streamlit · code runs locally in your session")
+st.caption("🐍 Python Learning Environment - enjoy Learning")
